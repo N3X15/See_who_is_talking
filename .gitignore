@@ -1,0 +1,5 @@
+﻿/bin/
+/obj/
+/.pre-commit-config.yaml
+/.build.user.toml
+/.selid-hooks/
